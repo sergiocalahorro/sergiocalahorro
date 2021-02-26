@@ -1,16 +1,16 @@
 # Hello there, my name is Sergio Calahorro
 
 ## Main skills:
-[![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=101010)]()
-[![C#](https://img.shields.io/badge/C_Sharp-000000?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=101010)]()
-[![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
-[![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
+![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=101010)
+![C#](https://img.shields.io/badge/C_Sharp-000000?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=101010)
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)
 </br>
-[![Visual_Studio](https://img.shields.io/badge/Visual_Studio-000000?style=for-the-badge&logo=visual-studio&logoColor=white&labelColor=101010)]()
-[![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white&labelColor=101010)]()
-[![Unreal_Engine](https://img.shields.io/badge/Unreal_Engine-000000?style=for-the-badge&logo=unreal-engine&logoColor=white&labelColor=101010)]()
+![Visual_Studio](https://img.shields.io/badge/Visual_Studio-000000?style=for-the-badge&logo=visual-studio&logoColor=white&labelColor=101010)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white&labelColor=101010)
+![Unreal_Engine](https://img.shields.io/badge/Unreal_Engine-000000?style=for-the-badge&logo=unreal-engine&logoColor=white&labelColor=101010)
 </br>
-[![OpenGL](https://img.shields.io/badge/OpenGL-000000?style=for-the-badge&logo=opengl&logoColor=white&labelColor=101010)]()
+![OpenGL](https://img.shields.io/badge/OpenGL-000000?style=for-the-badge&logo=opengl&logoColor=white&labelColor=101010)
 </br>
 
 ## Contact:
