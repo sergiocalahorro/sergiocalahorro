@@ -1,9 +1,9 @@
-# Hello there, welcome!
+# Hello there, my name is Sergio Calahorro
 
 ## Skills:
-![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=visual-studio&logoColor=white&labelColor=101010)</br>
-![C#](https://img.shields.io/badge/CSharp-000000?style=for-the-badge&logo=visual-studio&logoColor=white&labelColor=101010)</br>
-![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=eclipse&logoColor=white&labelColor=101010)</br>
+![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=#cplusplus&logoColor=white&labelColor=101010)</br>
+![C#](https://img.shields.io/badge/CSharp-000000?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=101010)</br>
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)</br>
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)</br>
 
 
