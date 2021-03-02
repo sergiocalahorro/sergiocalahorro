@@ -16,4 +16,4 @@
 ## Contact:
 [![Web](https://img.shields.io/badge/My_Portfolio-000000?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://sergiocalahorro.github.io)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sergio_Calahorro-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/sergio-calahorro-ure%C3%B1a-15406b1a4)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sergio_Calahorro-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/sergiocalahorro)
